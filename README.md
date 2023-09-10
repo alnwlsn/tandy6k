@@ -8,3 +8,5 @@ It might only work with a Gotek. On that, you can assign pin 34 to Drive Ready, 
 
 ## ps2-keyboard
 Converts a ps2 keyboard to one that works with a TRS-80 8-inch system. Made because I was getting impatient waiting to fix the broken keyboard I have. Runs on an Arduino pro micro, but similar things should work. Similar to this converter https://www.smbaker.com/tandy-1000-upgrades-ps2-tandy-keyboard-adapter but for the Tandy 6000 instead of the Tandy 1000, and made more lazily by using the Arduino framework. 
+
+Change the mapping how you wish; I have not checked it against the real tandy 6000 keyboard, but it seems to mostly work well anyways. 
