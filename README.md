@@ -1,6 +1,8 @@
 # tandy6k
 stuff for my tandy 6000 computer project (and might be applicible to the TRS-80 Model II, TRS-80 Model 12, TRS-80 Model 16 or TRS-80 Model 16B)
 
+- Keyboard circuitry explained: https://www.youtube.com/watch?v=PWalT-7FzVU
+
 ## 8inch-adapter-pcb
 Single sided, CNC cut PCB for converting the 50 pin 8" floppy disk cable to the more common 34 pin cable. Based on this https://github.com/pski/fd50to34 and made so I could quickly cut one out and start using it. Intended for a Gotek floppy disk emulator with https://github.com/keirf/flashfloppy
 
