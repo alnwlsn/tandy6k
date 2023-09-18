@@ -16,5 +16,5 @@ Converts a ps2 keyboard to one that works with a TRS-80 8-inch system. Made beca
 Change the mapping how you wish; I have not checked it against the real tandy 6000 keyboard, but it seems to mostly work well anyways. 
 
 # Misc Notes
-* installing 2nd bank of DRAM for 128K on z80 board
+* installing 2nd bank of DRAM for 128K on z80 board (or how I learned to read the instructions)
   * Be sure to remove C81-C83, if not already removed. These are used as power bypass caps for 16K rams, but for 64K rams, an address signal is on those pins instead. If the caps are present, they stretch the signal out too much and it doesn't work, which is why they must be cut out. See model 12/16 technical bullitin #18.
