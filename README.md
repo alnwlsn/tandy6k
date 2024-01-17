@@ -1,3 +1,5 @@
+***I am now putting my trs-80 stuff in [a new repo: trashcan80](https://github.com/alnwlsn/trashcan80)***
+
 # tandy6k
 stuff for my tandy 6000 computer project (and might be applicible to the TRS-80 Model II, TRS-80 Model 12, TRS-80 Model 16 or TRS-80 Model 16B)
 
